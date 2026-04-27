@@ -1,0 +1,156 @@
+{
+  "main_game": [
+    {
+      "question": "SEBUTKAN MAKANAN SAAT HUJAN",
+      "answers": [
+        ["SOP", 30],
+        ["MIE INSTAN", 25],
+        ["BAKSO", 20],
+        ["NASI GORENG", 15],
+        ["GORengan", 10],
+        ["SATE", 8],
+        ["TELUR", 5],
+        ["ROTI", 3]
+      ]
+    },
+    {
+      "question": "SEBUTKAN ALAT TRANSPORTASI",
+      "answers": [
+        ["MOBIL", 30],
+        ["MOTOR", 25],
+        ["BUS", 20],
+        ["KERETA", 15],
+        ["SEPEDA", 10],
+        ["PESAWAT", 8]
+      ]
+    },
+    {
+      "question": "SEBUTKAN HEWAN PELIHARAAN",
+      "answers": [
+        ["KUCING", 30],
+        ["ANJING", 25],
+        ["BURUNG", 20],
+        ["IKAN", 15],
+        ["KELINCI", 10]
+      ]
+    },
+    {
+      "question": "SEBUTKAN PEKERJAAN",
+      "answers": [
+        ["GURU", 30],
+        ["DOKTER", 25],
+        ["POLISI", 20],
+        ["PETANI", 15],
+        ["PEDAGANG", 10],
+        ["NELAYAN", 8]
+      ]
+    },
+    {
+      "question": "SEBUTKAN MINUMAN",
+      "answers": [
+        ["AIR", 30],
+        ["TEH", 25],
+        ["KOPI", 20],
+        ["SUSU", 15],
+        ["JUS", 10],
+        ["SODA", 8]
+      ]
+    },
+    {
+      "question": "SEBUTKAN TEMPAT WISATA",
+      "answers": [
+        ["PANTAI", 30],
+        ["GUNUNG", 25],
+        ["MALL", 20],
+        ["TAMAN", 15],
+        ["KOLAM RENANG", 10],
+        ["KAMPUNG HALAMAN", 8]
+      ]
+    },
+    {
+      "question": "SEBUTKAN BARANG DI DAPUR",
+      "answers": [
+        ["KOMPOR", 30],
+        ["PIRING", 25],
+        ["SENDOK", 20],
+        ["PISAU", 15],
+        ["GELAS", 10],
+        ["WAJAN", 8]
+      ]
+    },
+    {
+      "question": "SEBUTKAN HOBI",
+      "answers": [
+        ["MAIN GAME", 30],
+        ["OLAHRAGA", 25],
+        ["NONTON", 20],
+        ["MEMBACA", 15],
+        ["MUSIK", 10],
+        ["MEMASAK", 8]
+      ]
+    }
+  ],
+
+  "big_money": [
+    {
+      "question": "SEBUTKAN BUAH",
+      "answers": {
+        "APEL": 30,
+        "PISANG": 25,
+        "JERUK": 20,
+        "MANGGA": 15,
+        "SEMANGKA": 10
+      }
+    },
+    {
+      "question": "SEBUTKAN WARNA",
+      "answers": {
+        "MERAH": 30,
+        "BIRU": 25,
+        "HIJAU": 20,
+        "KUNING": 15,
+        "HITAM": 10
+      }
+    },
+    {
+      "question": "SEBUTKAN HEWAN",
+      "answers": {
+        "KUCING": 30,
+        "ANJING": 25,
+        "SAPI": 20,
+        "AYAM": 15,
+        "KAMBING": 10
+      }
+    },
+    {
+      "question": "SEBUTKAN PEKERJAAN",
+      "answers": {
+        "GURU": 30,
+        "DOKTER": 25,
+        "POLISI": 20,
+        "PILOT": 15,
+        "ARTIS": 10
+      }
+    },
+    {
+      "question": "SEBUTKAN MINUMAN",
+      "answers": {
+        "AIR": 30,
+        "TEH": 25,
+        "KOPI": 20,
+        "SUSU": 15,
+        "JUS": 10
+      }
+    },
+    {
+      "question": "SEBUTKAN ALAT TULIS",
+      "answers": {
+        "PENA": 30,
+        "PENSIL": 25,
+        "BUKU": 20,
+        "PENGHAPUS": 15,
+        "SPIDOL": 10
+      }
+    }
+  ]
+}
